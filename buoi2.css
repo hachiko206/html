@@ -1,0 +1,90 @@
+body{
+    margin: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.link{
+    background-color: blue;
+    height: 35px;
+    line-height: 35px;
+}
+li{
+    float: left;
+    padding-left: 15%;
+}
+ul{
+    list-style: none;
+}
+.homepage h1{
+    text-align: center;
+    color: red;
+}
+.wallpaper{
+    padding-left: 11%;
+    width: 1050px;
+    height: 1000px;
+}
+.homepage p{
+    text-align: center;
+    padding-left: 22.5%;
+    width: 750px;
+    color: red;
+    font-size: large;
+}
+hr{
+    text-align: center;
+    width: 60%;
+}
+.ken{
+    width: 600px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.kaneki h2{
+    text-align: center;
+    color: maroon;
+}
+.kaneki p{
+    text-align: center;
+    padding-left: 22.5%;
+    width: 750px;
+    color: maroon;
+}
+.kirishima h2{
+    text-align: center;
+    color: rebeccapurple;
+}
+.kirishima p{
+    text-align: center;
+    padding-left: 22.5%;
+    width: 750px;
+    color: rebeccapurple;
+}
+h2{
+    text-align: center;
+    color: orangered;
+}
+.touka{
+    width: 600px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.anh img{
+    width: 600px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.anh h1{
+    background-color: blue;
+    text-align: center;
+    height: 40px;
+}
